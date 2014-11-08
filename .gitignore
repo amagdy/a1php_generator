@@ -1,0 +1,6 @@
+smarty/templates_c/*
+uploads/project/*
+uploads/code/*
+nbproject
+sqlite_dbs/*
+logs.log
